@@ -15,7 +15,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/hajimeni/aws-parameter-store-helper/aws"
+	"github.com/tmaher/aws-parameter-store-helper/aws"
 	"os"
 )
 
