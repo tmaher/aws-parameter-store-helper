@@ -13,7 +13,7 @@
 
 package main
 
-import "github.com/hajimeni/aws-parameter-store-helper/cmd"
+import "github.com/tmaher/aws-parameter-store-helper/cmd"
 
 func main() {
 	cmd.Execute()
